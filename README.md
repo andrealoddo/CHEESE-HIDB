@@ -1,5 +1,6 @@
 # CHEESE-HIDB (Lattebusche-Conad): The CHEESE Hierarchical Image Database for Image Processing and Analysis
 CHEESE-HIDB is the public image dataset described in the following article: TBD
+
 Authors: Luca Zedda, Alessandra Perniciano, Andrea Loddo, Cecilia Di Ruberto.
 
 # Dataset acquisition
