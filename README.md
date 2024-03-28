@@ -19,6 +19,7 @@ The images are hierarchically categorized. First the first level represents thre
  - Semi-Hard;
  - Hard;
  - Extra-Hard.
+   
 The second level represents two different ripeness classes for each of the first-level products:
  - Target represents cheese wheels with adequate ripeness;
  - Not Target represents cheese wheels that require additional aging or have exceeded the target ripeness.
