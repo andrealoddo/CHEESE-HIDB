@@ -457,5 +457,4 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
-Copyright (c) 2021 andrealoddo
-
+Copyright (c) 2024 andrealoddo
